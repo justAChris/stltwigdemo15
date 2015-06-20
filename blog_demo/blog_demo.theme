@@ -1,0 +1,4 @@
+<?php
+function blog_demo_preprocess_page(&$variables) {
+  $variables['logo'] = str_replace('.svg', '.png', $variables['logo']);
+}

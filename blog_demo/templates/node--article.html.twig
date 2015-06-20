@@ -1,0 +1,7 @@
+{% extends "node.html.twig" %}
+
+{# Remove Submitted from author attribution 
+Note this is a multiline comment #}
+{% block author %}
+  {% trans %}by {{ author_name }} (who is way cool btw) - {{ date }}{% endtrans %} 
+{% endblock %}

@@ -1,0 +1,14 @@
+name: Blog Demo
+type: theme
+description: 'Demo twig theme for STL DrupalCamp 2015'
+core: 8.x
+libraries:
+  - blog_demo/global-css
+  - blog_demo/global-js
+regions:
+  header: Header
+  highlighted: Highlighted
+  featured: Featured
+  content: Content
+  sidebar_first: Sidebar first
+  footer: Footer
