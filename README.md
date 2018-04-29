@@ -1,2 +1,2 @@
 # stltwigdemo15
-Theme code for Out on a TWIG presentation durinng DrupalCamp St Louis 2015
+Theme code for Out on a TWIG presentation during DrupalCamp St Louis 2015
